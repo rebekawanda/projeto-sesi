@@ -1,0 +1,42 @@
+.cabecalho{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.city {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(9,11,121);
+    background: linear-gradient(90deg, rgba(9,11,121,1) 21%, rgba(255,0,44,1) 100%, rgba(2,36,0,1) 200%);
+    color: white;
+    border: 2px solid black;
+    margin: 2px;
+    padding: 20px;
+}
+
+.car {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(9,11,121);
+   background: linear-gradient(90deg, rgba(9,11,121,1) 21%, rgba(255,0,44,1) 100%, rgba(2,36,0,1) 200%);
+    color: white;
+    border: 2px solid black;
+    margin: 2px;
+    padding: 20px;
+   }
+.flower {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(9,11,121);
+   background: linear-gradient(90deg, rgba(9,11,121,1) 21%, rgba(255,0,44,1) 100%, rgba(2,36,0,1) 200%);
+    color: white;
+    border: 2px solid black;
+    margin: 2px;
+    padding: 20px;
+   }
+.love {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(9,11,121);
+    background: linear-gradient(90deg, rgba(9,11,121,1) 21%, rgba(255,0,44,1) 100%, rgba(2,36,0,1) 200%);
+     color: white;
+     border: 2px solid black;
+     margin: 2px;
+     padding: 20px;
+    }
